@@ -1,0 +1,136 @@
+mlops-workload-orchestrator
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Licensed under the Apache License Version 2.0 (the "License"). You may not use this file except
+in compliance with the License. A copy of the License is located at http://www.apache.org/licenses/
+or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, express or implied. See the License for the
+specific language governing permissions and limitations under the License.
+
+**********************
+THIRD PARTY COMPONENTS
+**********************
+This software includes third party software subject to the following copyrights:
+
+Jinja2 under the BSD License  
+MarkupSafe under the BSD License
+PyYAML under the MIT License
+Werkzeug under the BSD License
+annotated-types under the MIT License
+antlr4-python3-runtime under the BSD License
+attrs under the MIT License  
+aws-cdk-lib under the Apache-2.0 license
+aws-cdk.asset-awscli-v1 under the Apache-2.0 license  
+aws-cdk.asset-kubectl-v20 under the Apache-2.0 license
+aws-cdk.asset-node-proxy-agent-v5 under the Apache-2.0 license     
+aws-cdk.aws-servicecatalogappregistry-alpha under the Apache-2.0 license
+aws-sam-translator under the Apache Software License                                     
+aws-solutions-constructs.aws-apigateway-lambda under the Apache-2.0 license   
+aws-solutions-constructs.aws-lambda-sagemakerendpoint under the  Apache-2.0 license     
+aws-solutions-constructs.core under the Apache-2.0 license
+aws-xray-sdk under the Apache Software License              
+boto3 under the Apache-2.0 license                          
+botocore under the Apache-2.0 license                                    
+cattrs under the MIT License
+certifi under the Mozilla Public License 2.0 (MPL 2.0)
+cffi under the MIT License  
+cfn-lint under the MIT License
+charset-normalizer under the MIT License
+cloudpickle under the BSD License
+constructs under the Apache-2.0 license
+contextlib2 under the Apache Software License; Python Software Foundation License 
+coverage under the Apache Software License                                     
+crhelper under the Apache-2.0 license.                                   
+cryptography under the Apache Software License; BSD License                        
+dill under the BSD License    
+docker under the Apache Software License
+ecdsa under the MIT License     
+exceptiongroup under the MIT License
+google-pasta under the Apache Software License
+graphql-core under the MIT License
+idna under the BSD License
+importlib-metadata under the Apache Software License
+importlib-resources under the Apache Software License
+importlib_resources under the Apache Software License
+iniconfig under the MIT License
+jmespath under the MIT License
+joserfc under the BSD License (BSD-3-Clause)
+jschema-to-python under the MIT License
+jsii under the Apache Software License
+jsondiff under the MIT License
+jsonpatch under the BSD License
+jsonpickle under the BSD License
+jsonpointer under the BSD License
+jsonpath-ng under the Apache Software License
+jsonschema under the MIT License
+jsonschema-path under the Apache Software License
+jsonschema-spec under the Apache Software License                                     
+jsonschema-specifications under the MIT License
+junit-xml under the  Freely Distributable; MIT License
+lazy-object-proxy under the BSD License
+moto under the Apache-2.0 license
+mpmath under the BSD License
+multipart under the Apache Software License
+multiprocess under the BSD License
+networkx under the BSD License
+numpy under the BSD License
+openapi-schema-validator under the BSD License
+openapi-spec-validator under the Apache Software License
+packaging under the Apache Software License; BSD License
+pandas under the BSD License
+pathable under the Other/Proprietary License
+pathos under the BSD License     
+pbr under the Apache Software License
+platformdirs under the MIT License
+pluggy under the MIT License
+ply under the BSD License
+pox under the BSD License
+ppft under the BSD License
+protobuf under the BSD-3-Clause
+protobuf3-to-dict under the Public Domain
+psutil under the BSD-3-Clause
+publication under the MIT License
+py-partiql-parser under the MIT License
+pyasn1 under the BSD License
+pycparser under the BSD License
+pydantic under the MIT License
+pydantic_core under the MIT License
+pyparsing under the MIT License
+pytest under the MIT license
+pytest-cov under the MIT license
+python-dateutil under the Apache Software License; BSD License
+python-jose under the MIT License
+pytz under the MIT License
+referencing under the MIT License
+regex under the Apache Software License
+requests under the Apache-2.0 license
+responses under the Apache 2.0      
+rfc3339-validator under the MIT License
+rpds-py under the MIT License
+rsa under the Apache Software License                              
+s3transfer under the Apache Software License
+sagemaker under the Apache-2.0 license
+sarif-om under the MIT License
+schema under the MIT License
+six under the MIT License
+smdebug-rulesconfig under the Apache Software License
+sshpubkeys under the BSD License
+sympy under the BSD License
+tblib under the BSD License
+tomli under the MIT License
+tqdm under the MIT License
+typeguard under the MIT License
+types-PyYAML under the Apache Software License                     
+typing_extensions under the Python Software Foundation License
+tzdata under the Apache Software License
+urllib3 under the MIT license
+websocket-client under the Apache Software License
+wrapt under the BSD License
+xmltodict under the MIT License
+zipp under the MIT License
+fs under the MIT license
+
+********************
+OPEN SOURCE LICENSES
+********************
+
+Apache-2.0 - https://spdx.org/licenses/Apache-2.0.html
